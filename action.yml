@@ -1,7 +1,7 @@
   
 name: Rancher CLI Action
 description: Use the Rancher CLI to manage resources inside an action.
-author: colbyhill21
+author: tbrtje
 branding:
   icon: 'terminal'
   color: 'blue'
